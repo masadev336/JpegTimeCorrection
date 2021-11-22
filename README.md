@@ -1,0 +1,2 @@
+# JpegTimeCorrection
+JPEGファイルの日付を一括で補正するツール
